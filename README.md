@@ -1,5 +1,7 @@
 # PDI-VINICIUS
 
-Meu primeir PR
+Meu primeiro PR
 
 Descobrindo o mundo GitHub
+
+Testando clone.

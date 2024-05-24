@@ -3,5 +3,5 @@
 Meu primeiro PR
 
 Descobrindo o mundo GitHub
-
-Testando clone.
+SUbindo resumo GIT e GIt Hub
+Subindo resumo de banco de dados
